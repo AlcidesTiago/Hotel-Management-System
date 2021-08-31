@@ -4,6 +4,7 @@ This project was developed to keep the record of the Hotels, like, booking, visi
 
 
 • Key Technologies: -
+
 Language : Python
 Python IDE : PyCharm
 Database : MySQL
